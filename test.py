@@ -1,1 +1,5 @@
-echo("ce echo ne sert a rien")
+def multiplication(un,deux):
+    return un*deux
+
+def division(un,deux):
+    return un/deux
